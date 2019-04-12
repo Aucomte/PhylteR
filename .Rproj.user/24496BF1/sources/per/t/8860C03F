@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527517335317.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1725191937",
+    "id" : "8860C03F",
+    "lastKnownWriteTime" : 1527515851,
+    "last_content_update" : 1527515851,
+    "path" : "/media/comte/KINGSTON/stageLBBE/PHYLTER/Phylter/shiny/PhylteR/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "15,11",
+        "scrollLine" : "4"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

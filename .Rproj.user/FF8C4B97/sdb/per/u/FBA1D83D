@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "trees  = read.tree(\"/home/aurore/forets/UNCLASSIFIEDBACTERIA/mcoa.nw\")\n\nx = PhylteR(trees, distance = \"nodal\")\nx = PhylteR(trees, distance = \"patristic\")\ny = pMCOA.complete(trees, distance = \"nodal\")\ny$outcompl\n",
+    "created" : 1499940470125.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "3014992309",
+    "id" : "FBA1D83D",
+    "lastKnownWriteTime" : 4589754865939252745,
+    "last_content_update" : 1499942227032,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

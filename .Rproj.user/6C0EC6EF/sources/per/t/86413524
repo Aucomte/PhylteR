@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547225721881.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3190045910",
+    "id" : "86413524",
+    "lastKnownWriteTime" : 1547220548,
+    "last_content_update" : 1547220548,
+    "path" : "~/Documents/IPME/GTIPP/PhylteR/global.R",
+    "project_path" : "global.R",
+    "properties" : {
+        "cursorPosition" : "13,18",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
